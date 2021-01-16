@@ -1,7 +1,7 @@
 var express = require("express");
 var request = require('postman-request');
 var apiSecenekleri = {
-    sunucu : "http://localhost:3000",
+    sunucu : "https://ahmetfurkanmeric1821012022.herokuapp.com/",
     apiYolu: '/api/mekanlar'
 }
 var footer="Ahmet Furkan Meriç 2020"
